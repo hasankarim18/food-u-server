@@ -3,7 +3,7 @@
     {
       "id": 0,
       "name": "Ginger Burger",
-      "image": "images/0burger.jpg",
+      "image": "https://hasankarim18.github.io/food-u-server/public/images/0burger.jpg",
       "category": "meal",
       "label": "Hot",
       "price": "199",
@@ -13,7 +13,7 @@
     {
       "id": 1,
       "name": "BBQ Chicken Pizza",
-      "image": "images/1pizza.jpg",
+      "image": "https://hasankarim18.github.io/food-u-server/public/images/1pizza.jpg",
       "category": "meal",
       "label": "",
       "price": "599",
@@ -23,7 +23,7 @@
     {
       "id": 2,
       "name": "French Fries",
-      "image": "images/2fries.jpg",
+      "image": "https://hasankarim18.github.io/food-u-server/public/images/2fries.jpg",
       "category": "appetizer",
       "label": "New",
       "price": "120",
@@ -33,7 +33,7 @@
     {
       "id": 3,
       "name": "Cheese Cake",
-      "image": "images/3cake.jpg",
+      "image": "https://hasankarim18.github.io/food-u-server/public/images/3cake.jpg",
       "category": "dessert",
       "label": "",
       "price": "170",
