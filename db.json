@@ -39,6 +39,16 @@
       "price": "170",
       "featured": false,
       "description": "A delectable, semi-sweet New York Style Cheese Cake, with cracker crust and spiced with Indian cardamoms"
+    },
+    {
+      "id": 4,
+      "name": "Fish Fry",
+      "image": "https://hasankarim18.github.io/food-u-server/public/images/4fish-fry.jpg",
+      "category": "Non veg",
+      "label": "sea food",
+      "price": "220",
+      "featured": false,
+      "description": "A delicate deep fried sea food"
     }
   ],
   "comments": [
