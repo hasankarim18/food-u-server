@@ -1,22 +1,5 @@
 {
-  "slider":[
-    {
-      "id":0,
-      "image":"https://hasankarim18.github.io/food-u-server/slider/res1.jpg"
-    },
-     {
-      "id":1,
-      "image":"https://hasankarim18.github.io/food-u-server/slider/res2.jpg"
-    },
-     {
-      "id":2,
-      "image":"https://hasankarim18.github.io/food-u-server/slider/res2.jpg"
-    },
-     {
-      "id":3,
-      "image":"https://hasankarim18.github.io/food-u-server/slider/res3.jpg"
-    }
-  ],
+  
   "dishes": [
     {
       "id": 0,
